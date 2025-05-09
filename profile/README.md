@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🙋‍♀️ A short introduction - what is your organization all about? Well $$
+🙋‍♀️ A short introduction - what is your organization all about? Well $$ (not like EA, thake this as a note)
 <!--
 
 **Here are some ideas to get you started:**
